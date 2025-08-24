@@ -81,6 +81,9 @@ Add the following configuration to your MCP client's configuration file (typical
 - [VS Code MCP Extension](https://marketplace.visualstudio.com/search?term=mcp)
 - Any MCP-compatible client supporting stdio transport
 
+  <img width="457" height="358" alt="Screenshot 2025-08-24 at 2 25 02 PM" src="https://github.com/user-attachments/assets/04677f63-e2d0-46db-80b7-bd25463a8dae" />
+
+
 ## Available Tools
 
 The server provides the following MCP tools:
@@ -98,7 +101,7 @@ Once configured with your MCP client, you can:
 
 1. **Query Swift Version**
    ```
-   User: What Swift version is installed?
+   User: What's my Swift Version?
    Assistant: [Uses swift_version tool to get current version]
    ```
 
