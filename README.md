@@ -107,13 +107,13 @@ Once configured with your MCP client, you can:
 
 2. **Development Environment Check**
    ```
-   User: Show me my Swift development environment details
+   User: What Swift Compiler am i using?
    Assistant: [Returns complete toolchain information]
    ```
 
 3. **Compatibility Verification**
    ```
-   User: Is my Swift version compatible with iOS 17 development?
+   User: Display Swift build information?
    Assistant: [Analyzes version and provides compatibility info]
    ```
 
