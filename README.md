@@ -1,2 +1,0 @@
-# SwiftVersionMCP
-Swift Version MCP
